@@ -1,0 +1,7 @@
+Escaneo efectuado el 02 Mar 17 a las 18:28:29
+Se han encontrado 0 hosts activos de un total de 0 escaneados
+----------------------
+Escaneo efectuado el 02 Mar 17 a las 18:29:01
+192.168.11.10
+Se han encontrado 1 hosts activos de un total de 16 escaneados
+----------------------

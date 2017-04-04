@@ -1,0 +1,19 @@
+total 68
+-rw-r--r-- 1 ubuntu ubuntu 2019 2017-03-02 20:35 nmap10.py
+-rw-r--r-- 1 root   root    242 2017-03-01 19:48 nmap1.py
+-rw-r--r-- 1 ubuntu ubuntu  307 2017-03-01 20:04 nmap2.py
+-rw-r--r-- 1 ubuntu ubuntu  188 2017-03-01 20:38 nmap3.py
+-rw-r--r-- 1 root   root    141 2017-03-02 18:39 nombre_fichero
+-rw-r--r-- 1 root   root      0 2017-03-03 16:01 pablo.txt
+-rw-r--r-- 1 root   root    549 2017-03-02 18:44 Scan020317184451
+-rw-r--r-- 1 root   root    141 2017-03-02 20:30 Scan170302203035
+-rw-r--r-- 1 ubuntu ubuntu  141 2017-03-02 20:31 Scan170302203106
+-rw-r--r-- 1 root   root    141 2017-03-02 20:36 Scan170302203608
+-rw-r--r-- 1 root   root    141 2017-03-02 20:37 Scan170302203708
+-rw-r--r-- 1 root   root    141 2017-03-02 20:38 Scan170302203808
+-rw-r--r-- 1 root   root    141 2017-03-02 20:39 Scan170302203908
+-rw-r--r-- 1 root   root    141 2017-03-02 20:40 Scan170302204008
+-rw-r--r-- 1 root   root    141 2017-03-02 20:41 Scan170302204108
+-rw-r--r-- 1 root   root    141 2017-03-02 20:42 Scan170302204208
+-rw-r--r-- 1 root   root    277 2017-03-02 18:29 scan.txt
+-rw-r--r-- 1 ubuntu ubuntu   86 2017-03-03 16:01 system1.py
