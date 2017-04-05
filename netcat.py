@@ -79,8 +79,7 @@ def main():
         # upload things, execute commands, and drop a shell back
         # depending on our command line options above
     if listen:
-        pass
-        #server_loop() 
+        server_loop() 
 
 
 def client_sender(buffer):
