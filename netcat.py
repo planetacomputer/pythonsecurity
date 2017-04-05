@@ -72,8 +72,8 @@ def main():
         # this will block, so send CTRL-D if not sending input
         # to stdin
         buffer = sys.stdin.read()
+        
         # send data off
-        buffer = raw_input("")
         client_sender(buffer)
         # we are going to listen and potentially
         # upload things, execute commands, and drop a shell back
