@@ -134,8 +134,7 @@ def run_command(command):
     command = command.rstrip()
     # run the command and get the output back
     try:
-        output = subprocess.check_output(command,stderr=subprocess.
-    STDOUT, shell=True)
+        output = subprocess.check_output(command,stderr=subprocess.STDOUT, shell=True)
     except:
         output = "Failed to execute command.\r\n"
     # send the output back to the client
@@ -149,6 +148,7 @@ def client_handler(client_socket):
     global command
     # check for upload
     if len(upload_destination):
+        print "pasa upload"+upload_destination
         # read in all of the bytes and write to our destination
         file_buffer = ""
         # keep reading data until none is available

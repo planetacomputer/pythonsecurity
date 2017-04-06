@@ -2,6 +2,8 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
+git commit -m "Forma de lllamar al servidor en modo ejecucion de un comando: python netcat.py -p 9999 -t 127.0.0.1 -l -e "cat /etc/passwd"
+
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
   - Type some Markdown on the left
