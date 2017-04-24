@@ -6,7 +6,7 @@ s = socket.socket()         # Create a socket object
 #host = socket.gethostname() # Get local machine name
 host = socket.gethostbyname("localhost")
 print host
-port = 12345                # Reserve a port for your service.
+port = 53                # Reserve a port for your service.
 
 s.connect((host, port))
 print s.recv(1024)
